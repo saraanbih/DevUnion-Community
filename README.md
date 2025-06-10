@@ -63,7 +63,7 @@ DevUnion is organized into several technical domains, discussion areas, and coll
 - **Node Js** - JavaScript backend learners and developers.
 - **Flutter** - Mobile developers using the Flutter framework.
 - **UI-UX** - Designers and researchers focused on user experience and interface design.
-- **Cyber Security** - Members interested in ethical hacking, and security.
+- **Cyber Security** - Members interested in ethical hacking, and securitغ.
 - **@everyone** - Default role given to all server members.
 
 ---
@@ -80,3 +80,13 @@ If you'd like to get in touch for collaboration, feedback, or questions:
 > "Alone we can do so little; together we can do so much." - Helen Keller
 
 🌟 **Star this repo if you believe in community-powered learning!**
+
+---
+
+## 💡 Suggestions & Feedback
+
+If you have any suggestions or would like to propose changes to the community or this repository, feel free to reach out!  
+We welcome ideas that help improve the experience for everyone.
+
+You can contact me directly or open an issue or pull request on GitHub.
+
