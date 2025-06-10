@@ -63,7 +63,7 @@ DevUnion is organized into several technical domains, discussion areas, and coll
 - **Node Js** - JavaScript backend learners and developers.
 - **Flutter** - Mobile developers using the Flutter framework.
 - **UI-UX** - Designers and researchers focused on user experience and interface design.
-- **Cyber Security** - Members interested in ethical hacking, SOC, and security tools.
+- **Cyber Security** - Members interested in ethical hacking, and security.
 - **@everyone** - Default role given to all server members.
 
 ---
