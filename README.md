@@ -11,7 +11,7 @@ We believe in collaborative learning, open discussions, and an environment where
 
 DevUnion is organized into several technical domains, discussion areas, and collaborative rooms to keep learning focused and productive.
 
-![DevUnion Community(5)](https://github.com/user-attachments/assets/67cfe6af-c1c1-4032-a879-c223ab920ad1)
+![DevUnion Community(5)](https://github.com/user-attachments/assets/6d6cf6a9-2bb9-4d9f-952a-796448387999)
 
 ---
 
