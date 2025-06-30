@@ -11,7 +11,7 @@ We believe in collaborative learning, open discussions, and an environment where
 
 DevUnion is organized into several technical domains, discussion areas, and collaborative rooms to keep learning focused and productive.
 
-![DevUnion Community(5)](https://github.com/user-attachments/assets/6d6cf6a9-2bb9-4d9f-952a-796448387999)
+![DevUnion Community(6)](https://github.com/user-attachments/assets/573790c4-3947-4643-a695-2d7963af75de)
 
 ---
 
@@ -67,7 +67,7 @@ Access to general and core programming channels.
 Can ask moderators for support.
 Limited access unless they contribute more.
 
-### Trusted (@Trusted)
+### Specia (@Special)
 
 **Who?** Supportive and engaged members.
 **Benefits:**
@@ -75,7 +75,7 @@ Access to additional community server channels.
 Exclusive resources.
 Can be nominated for higher roles.
 
-**How to Become Trusted:**
+**How to Become Special:**
 Actively support others.
 Share ideas, resources, and help.
 Collaborate with others.
