@@ -145,6 +145,11 @@ Each technical track includes the following:
 
 ---
 
+## Server Link
+ - Discord: [DevUnion Community](https://discord.gg/PfM9jHeb)
+   
+---
+
 > "Alone we can do so little; together we can do so much." — Helen Keller
 
 ---
