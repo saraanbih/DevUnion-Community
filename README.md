@@ -150,7 +150,7 @@ Each technical track includes the following:
    
 ---
 
-> "Alone we can do so little; together we can do so much." — Helen Keller
+> "Alone we can do so little; together we can do so much." Helen Keller
 
 ---
 
