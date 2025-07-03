@@ -61,35 +61,35 @@ DevUnion is organized into several technical domains, discussion areas, and coll
 
 ### Member (@Member)
 
-**Who?** Authenticated members who joined via the entry channel.
-**Benefits:**
-Access to general and core programming channels.
-Can ask moderators for support.
-Limited access unless they contribute more.
+ - **Who?** Authenticated members who joined via the entry channel.
+ - **Benefits:**
+ - Access to general and core programming channels.
+ - Can ask moderators for support.
+ - Limited access unless they contribute more.
 
 ### Specia (@Special)
 
-**Who?** Supportive and engaged members.
-**Benefits:**
-Access to additional community server channels.
-Exclusive resources.
-Can be nominated for higher roles.
+ - **Who?** Supportive and engaged members.
+ - **Benefits:**
+ - Access to additional community server channels.
+ - Exclusive resources.
+ - Can be nominated for higher roles.
 
 **How to Become Special:**
-Actively support others.
-Share ideas, resources, and help.
-Collaborate with others.
+ - Actively support others.
+ - Share ideas, resources, and help.
+ - Collaborate with others.
 
 ### Moderator (@Moderator)
 
-**Who?** Experienced members dedicated to supporting and managing the community.
-**Role:** Guide discussions, ensure rule enforcement, and help organize activities.
+ - **Who?** Experienced members dedicated to supporting and managing the community.
+ - **Role:** Guide discussions, ensure rule enforcement, and help organize activities.
 
 ### Track Roles
 
 Examples: @Frontend, @.Net, @Django, @Node Js, @Flutter, @CyberSecurity
-**Who?** Members studying or contributing in these specific fields.
-**Note:** These are not moderator roles unless combined with @Moderator.
+ - **Who?** Members studying or contributing in these specific fields.
+ - **Note:** These are not moderator roles unless combined with @Moderator.
 
 ---
 
